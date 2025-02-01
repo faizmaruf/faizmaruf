@@ -1,7 +1,9 @@
 
 # Hi, I'm Faiz Ma'ruf! 👋
 
-I am a fresh graduate of Computer Science from Sriwijaya University with experience intern at several companies also join more than 3 software engineering competitions at university and national level. Interested in website development especially in Frontend Dev.
+I am a Software Engineer with over 3 years of experience in designing and developing applications across various industries. I have worked on building scalable systems, creating user-friendly applications, and integrating platforms to enhance operational efficiency.
+
+My professional journey includes developing Hospital Management Systems, contributing to diverse projects as a Frontend Developer, and building web-based systems during my internships. I am passionate about solving complex problems through technology and continuously improving my skills in software development.
 ## Visit
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://faizmaruf.github.io/)
 
